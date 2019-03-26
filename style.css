@@ -113,6 +113,10 @@ Tags:
 	font-size: 0.85rem;
 }
 
+.list-film{
+	overflow: hidden;
+}
+
 .badge + .badge{
 	margin: 0.2rem 0.2rem 0 0.2rem;
 }
