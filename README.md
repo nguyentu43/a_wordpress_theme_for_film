@@ -1,4 +1,4 @@
-# Simple Film Theme Wordpress
+# A Wordpress Theme: Film
 
 [Demo](http://delayed-act.000webhostapp.com/)
 
